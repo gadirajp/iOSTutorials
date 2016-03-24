@@ -430,6 +430,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = iOSTutorials/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Personal.iOSTutorials;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -441,6 +442,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = iOSTutorials/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Personal.iOSTutorials;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -512,6 +514,7 @@
 				CE01F7591CA368240039BF3F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE01F75A1CA368240039BF3F /* Build configuration list for PBXNativeTarget "iOSTutorialsTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +523,7 @@
 				CE01F75C1CA368240039BF3F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CE01F75D1CA368240039BF3F /* Build configuration list for PBXNativeTarget "iOSTutorialsUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +532,7 @@
 				CE01F75F1CA368240039BF3F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
